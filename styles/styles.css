@@ -1,0 +1,40 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(129, 199, 199);
+}
+
+h1{
+    background-color: blueviolet;
+    color: azure;
+    text-align: center;
+    margin: 20px;
+
+}
+p{
+    color: blue;
+    font-size: larger;
+    background-color: rgb(5, 155, 70);
+    color: azure;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+
+
+#p1{
+    background-color: blanchedalmond;
+    color: black;
+    padding: 30px;
+    border: 5px solid;
+    width: 250px;
+    height: 200px;
+    overflow: auto;
+
+}
